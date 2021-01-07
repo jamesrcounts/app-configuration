@@ -1,5 +1,5 @@
 locals {
-  project = "tfaz"
+  project = "app-configuration"
 
   tags = {
     project = local.project
